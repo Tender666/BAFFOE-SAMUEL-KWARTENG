@@ -92,7 +92,7 @@ The result of the work is to use machine learning and the developed web applicat
 ## CERTIFICATIONS
 ### AI AUGMENTED PROFESSIONAL DEVELOPMENT SKILLS IN THE DIGITAL AGE  
 **ALX Africa – Accra, Ghana**  
-- https://intranet.alxswe.com/certificates/mPnXxycYC7
+[Publication](https://intranet.alxswe.com/certificates/mPnXxycYC7)
 
 
 ## Publications
