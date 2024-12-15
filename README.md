@@ -1,7 +1,7 @@
 # portfolio
 samuelbaffoekwarteng.github.io
 
-**AI & ML Engineer | Energy Engineer | Researcher**  
+AI & ML Engineer | Energy Engineer | Researcher  
 
 [Link to my research profile](http://orcid.org/0009-0006-4126-6798)  
 
@@ -99,7 +99,18 @@ The result of the work is to use machine learning and the developed web applicat
 ## Publications
 1. Kwarteng, S., & Poguda Andreevich. (2024). Comparative Analysis of ARIMA, SARIMA and Prophet Model in Forecasting. Research & Development, 5(4), 110–120. https://doi.org/10.11648/j.rd.20240504.13
 
-  <main>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Information</title>
+</head>
+<body>
+
+<h2>🤳 Connect with me:</h2>
+
+<main>
     <h2>Contact</h2>
     <p>Email: <a href="mailto:samuelbaffoekwarteng@gmail.com">samuelbaffoekwarteng@gmail.com</a></p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/samuelbaffoekwarteng" target="_blank">Samuel Baffoe</a></p>
@@ -108,6 +119,10 @@ The result of the work is to use machine learning and the developed web applicat
 <footer>
     <p>&copy; 2024 Samuel Baffoe Kwarteng. All rights reserved.</p>
 </footer>
+
+</body>
+</html>
+
 
 
 
