@@ -1,4 +1,4 @@
-BAFFOE SAMUEL KWARTENG
+
 
 AI & ML Engineer | Energy Engineer | Researcher  
 
