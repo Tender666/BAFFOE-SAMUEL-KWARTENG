@@ -107,28 +107,5 @@ The result of the work is to use machine learning and the developed web applicat
     </main>
     <footer>
         <p>&copy; 2024 Samuel Baffoe Kwarteng. All rights reserved.</p>
-    </footer>
-</body>
-</html>
-+++++++++++++++++++++++++
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact</title>
-</head>
-<body>
-    <main>
-        <section id="contact">
-            <h2>Contact</h2>
-            <p>Email: <a href="mailto:samuelbaffoekwarteng@gmail.com">samuelbaffoekwarteng@gmail.com</a></p>
-            <p>LinkedIn: <a href="http://linkedin.com/in/samuel-baffoe-744427208" target="_blank">Samuel Baffoe</a></p>
-        </section>
-    </main>
-    <footer>
-        <p>&copy; 2024 Samuel Baffoe Kwarteng. All rights reserved.</p>
-    </footer>
-</body>
-</html>
+
 
