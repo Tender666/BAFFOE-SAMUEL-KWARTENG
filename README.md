@@ -1,4 +1,4 @@
-
+BAFFOE SAMUEL KWARTENG
 
 AI & ML Engineer | Energy Engineer | Researcher  
 
@@ -107,10 +107,9 @@ The result of the work is to use machine learning and the developed web applicat
 </head>
 <body>
 
-<h2>🤳 Connect with me:</h2>
 
 <main>
-    <h2>Contact</h2>
+    <h2>🤳 Connect with me:</h2>
     <p>Email: <a href="mailto:samuelbaffoekwarteng@gmail.com">samuelbaffoekwarteng@gmail.com</a></p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/samuelbaffoekwarteng" target="_blank">Samuel Baffoe</a></p>
 </main>
