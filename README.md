@@ -1,5 +1,4 @@
-# portfolio
-samuelbaffoekwarteng.github.io
+
 
 AI & ML Engineer | Energy Engineer | Researcher  
 
