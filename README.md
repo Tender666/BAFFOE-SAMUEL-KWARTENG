@@ -99,7 +99,7 @@ The result of the work is to use machine learning and the developed web applicat
 ## Publications
 1. Kwarteng, S., & Poguda Andreevich. (2024). Comparative Analysis of ARIMA, SARIMA and Prophet Model in Forecasting. Research & Development, 5(4), 110–120. https://doi.org/10.11648/j.rd.20240504.13
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
